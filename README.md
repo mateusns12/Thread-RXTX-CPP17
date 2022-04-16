@@ -11,9 +11,11 @@ This code complements the [Union-RXTX-Packet](https://github.com/mateusns12/CPP-
 
 	- Automatic lock/unlock not used, since variables never goes out of scope.
 	- Using pooling method to verify state of data.
+	- 'rand()' id not recomended and will be changed byfunctions in the <random> module.
 
 # To-do
 
 - [ ] Test 'std::condition_variable' to implement events, instead of pooling.
 - [ ] Test thread call by lambda function
 - [ ] Implement thread Handling
+- [ ] Change rand() by uniform_int_distribution. 
