@@ -14,6 +14,6 @@ This code complements the [Union-RXTX-Packet](https://github.com/mateusns12/CPP-
 
 # To-do
 
-	- [ ] Test 'std::condition_variable' to implement events, instead of pooling.
-	- [ ] Test thread call by lambda function
-	- [ ] Implement thread Handling
+- [ ] Test 'std::condition_variable' to implement events, instead of pooling.
+- [ ] Test thread call by lambda function
+- [ ] Implement thread Handling
