@@ -1,5 +1,6 @@
 *.tcl
 CMakeCache.txt
+build
 *.cmake
 Makefile
 Testing
